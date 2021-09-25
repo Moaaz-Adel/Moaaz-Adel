@@ -42,7 +42,7 @@
 
 <img align="left" alt="Java" width="30px" src="https://www.pikpng.com/pngl/m/204-2047589_java-png-icon-clipart.png" />
 
-<img src="" width="30px" />&nbsp;&nbsp;<img src="https://1.bp.blogspot.com/-Ar8WR3ySYG8/WAuTyMYRNcI/AAAAAAAAO9M/PJOWp3Z8iGUly911EjMP0JjLgfi3EaiLwCLcB/s400/REST%2BAPI.png" width="30px" />&nbsp;&nbsp;
+<img src="https://1.bp.blogspot.com/-Ar8WR3ySYG8/WAuTyMYRNcI/AAAAAAAAO9M/PJOWp3Z8iGUly911EjMP0JjLgfi3EaiLwCLcB/s400/REST%2BAPI.png" width="30px" />&nbsp;&nbsp;
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWOjaPhJPg8yNJv_ICdpX2-g1OmsOuJjP468gZs__2yJN6I33hdynvHIbMmKjl6zl-dHQ&usqp=CAU" width="30px" />&nbsp;&nbsp;
 

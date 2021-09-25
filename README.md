@@ -55,7 +55,9 @@
  &nbsp;
  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png" width="30px"/>
  &nbsp;
- <img align="left" src=https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/GitHub_Mark.png/640px-GitHub_Mark.png" width="30px"/>                                                                                               
+ <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/GitHub_Mark.png/640px-GitHub_Mark.png" width="30px"/>  
+ &nbsp;
+ <img align="left" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/intellij-icon.png" width="30px"/>  
                                                                                                                                  
 
  

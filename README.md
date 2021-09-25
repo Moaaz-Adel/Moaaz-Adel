@@ -43,7 +43,7 @@
 &nbsp;
 <img align="left" alt="Swagger" width="30px" src="https://1.bp.blogspot.com/-Ar8WR3ySYG8/WAuTyMYRNcI/AAAAAAAAO9M/PJOWp3Z8iGUly911EjMP0JjLgfi3EaiLwCLcB/s400/REST%2BAPI.png" />
 &nbsp;
-<img align="left" alt="K6.io" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQG-1y7V54e405_YqQWYm3WHlKpETgh__p43lA0bzGbpvW7Gne5-icIF5CezIs18bwLuc&usqp=CAU" />
+<img align="left" alt="K6.io" height="30px"  width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQG-1y7V54e405_YqQWYm3WHlKpETgh__p43lA0bzGbpvW7Gne5-icIF5CezIs18bwLuc&usqp=CAU" />
 &nbsp;
 <img align="left" alt="Java" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWOjaPhJPg8yNJv_ICdpX2-g1OmsOuJjP468gZs__2yJN6I33hdynvHIbMmKjl6zl-dHQ&usqp=CAU"/>
 &nbsp;

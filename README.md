@@ -35,7 +35,7 @@
 &nbsp;
 <img align="left" alt="Selenium" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" />
 &nbsp;
-<img align="left" alt="Cypress" width="30px" src="https://icons-for-free.com/iconfiles/png/512/cypress-1324440144114984250.png" />
+<img align="left" alt="Cypress" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ6-sVRAfV0OykU9ufMJDTorjj9NBBLAgSy3bkiBhVeR5IwoZmifWq5T1hJF32AflHgIM&usqp=CAU" />
 &nbsp;
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> 
 &nbsp;
@@ -45,9 +45,9 @@
 &nbsp;
 <img align="left" alt="K6.io" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQG-1y7V54e405_YqQWYm3WHlKpETgh__p43lA0bzGbpvW7Gne5-icIF5CezIs18bwLuc&usqp=CAU" />
 &nbsp;
-<img align="left" alt="Java" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWOjaPhJPg8yNJv_ICdpX2-g1OmsOuJjP468gZs__2yJN6I33hdynvHIbMmKjl6zl-dHQ&usqp=CAU" />
+<img align="left" alt="Java" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWOjaPhJPg8yNJv_ICdpX2-g1OmsOuJjP468gZs__2yJN6I33hdynvHIbMmKjl6zl-dHQ&usqp=CAU"/>
 &nbsp;
-<img src="https://cdn.iconscout.com/icon/free/png-256/gatling-1-1175169.png" width="30px"/>
+<img align="left" src="https://cdn.iconscout.com/icon/free/png-256/gatling-1-1175169.png" width="30px"/>
 
 
 <img src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?&style=for-the-badge&color=3178C6" />&nbsp;&nbsp;

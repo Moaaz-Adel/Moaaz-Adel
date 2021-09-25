@@ -48,7 +48,13 @@
 <img align="left" alt="Java" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWOjaPhJPg8yNJv_ICdpX2-g1OmsOuJjP468gZs__2yJN6I33hdynvHIbMmKjl6zl-dHQ&usqp=CAU"/>
 &nbsp;
 <img align="left" src="https://cdn.iconscout.com/icon/free/png-256/gatling-1175168.png" width="30px"/>
-
+ &nbsp;
+<img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZnI0ZHgQTIEZRKbiIPZ6DSagqE7_PXJPSNZt_qpFbi1Kp5mfHR9mu9_puZXGYsNHqLBE&usqp=CAU" width="30px"/>
+  &nbsp;
+<img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFVaGsM_nguQoKy6d4pAMOgVgBFc5UN-8-XhhJAJVLF5Cy6_PxM7FtnP5wQY8UbL1F2Jw&usqp=CAU" width="30px"/>
+ &nbsp;
+ 
+ 
 
 <img src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?&style=for-the-badge&color=3178C6" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Git%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;

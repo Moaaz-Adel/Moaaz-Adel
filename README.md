@@ -47,7 +47,7 @@
 &nbsp;
 <img align="left" alt="Java" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWOjaPhJPg8yNJv_ICdpX2-g1OmsOuJjP468gZs__2yJN6I33hdynvHIbMmKjl6zl-dHQ&usqp=CAU"/>
 &nbsp;
-<img align="left" src="https://cdn.iconscout.com/icon/free/png-256/gatling-1-1175169.png" width="30px"/>
+<img align="left" src="https://cdn.iconscout.com/icon/free/png-256/gatling-1175168.png" width="30px"/>
 
 
 <img src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?&style=for-the-badge&color=3178C6" />&nbsp;&nbsp;

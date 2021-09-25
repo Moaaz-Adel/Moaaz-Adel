@@ -30,25 +30,24 @@
 ***
 
 ## 🛠️ My favorite tools & Technologies
-<p> 
-
+<p> &nbsp;
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
+&nbsp;
 <img align="left" alt="Selenium" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" />
-
+&nbsp;
 <img align="left" alt="Cypress" width="30px" src="https://icons-for-free.com/iconfiles/png/512/cypress-1324440144114984250.png" />
-
+&nbsp;
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> 
-
-<img align="left" alt="Java" width="30px" src="https://www.pikpng.com/pngl/m/204-2047589_java-png-icon-clipart.png" />
-
-<img src="https://1.bp.blogspot.com/-Ar8WR3ySYG8/WAuTyMYRNcI/AAAAAAAAO9M/PJOWp3Z8iGUly911EjMP0JjLgfi3EaiLwCLcB/s400/REST%2BAPI.png" width="30px" />&nbsp;&nbsp;
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWOjaPhJPg8yNJv_ICdpX2-g1OmsOuJjP468gZs__2yJN6I33hdynvHIbMmKjl6zl-dHQ&usqp=CAU" width="30px" />&nbsp;&nbsp;
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQG-1y7V54e405_YqQWYm3WHlKpETgh__p43lA0bzGbpvW7Gne5-icIF5CezIs18bwLuc&usqp=CAU" width="30px"/>&nbsp;&nbsp;
-
-<img src="https://cdn.iconscout.com/icon/free/png-256/gatling-1-1175169.png" width="30px"/>&nbsp;&nbsp;
+&nbsp;
+<img align="left" alt="Java" width="23px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" />
+&nbsp;
+<img align="left" alt="Swagger" width="30px" src="https://1.bp.blogspot.com/-Ar8WR3ySYG8/WAuTyMYRNcI/AAAAAAAAO9M/PJOWp3Z8iGUly911EjMP0JjLgfi3EaiLwCLcB/s400/REST%2BAPI.png" />
+&nbsp;
+<img align="left" alt="K6.io" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQG-1y7V54e405_YqQWYm3WHlKpETgh__p43lA0bzGbpvW7Gne5-icIF5CezIs18bwLuc&usqp=CAU" />
+&nbsp;
+<img align="left" alt="Java" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWOjaPhJPg8yNJv_ICdpX2-g1OmsOuJjP468gZs__2yJN6I33hdynvHIbMmKjl6zl-dHQ&usqp=CAU" />
+&nbsp;
+<img src="https://cdn.iconscout.com/icon/free/png-256/gatling-1-1175169.png" width="30px"/>
 
 
 <img src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?&style=for-the-badge&color=3178C6" />&nbsp;&nbsp;

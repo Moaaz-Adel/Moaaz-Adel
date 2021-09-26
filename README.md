@@ -63,7 +63,7 @@
 
 ## Certicficates 
 <img align="left" src="https://www.freeiconspng.com/uploads/certificate-icon-10.png" width="200px"/>
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 1. Test Automation University
 <a href="https://testautomationu.applitools.com/certificate/?id=c4bd1e94"><img src="https://mma.prnewswire.com/media/951253/Test_Automation_University_Logo.jpg?p=facebook" width="150px"> </a>

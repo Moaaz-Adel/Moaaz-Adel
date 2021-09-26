@@ -23,7 +23,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻  I’m currently working on something cool :wink:.
-- 🌱  I’m currently learning Penetration Testing. 
+- 🌱  I’m currently learning Penetration Testing. <img src="https://www.holmsecurity.com/hubfs/Icons/pen.test%20holm%20security.svg"/>
 - 💬  Ask me about anything, I am happy to help.
 - 📫  How to reach me: moazadel15@gmail.com.
 

@@ -18,12 +18,13 @@
 <img src="https://img.shields.io/badge/Age-27-blue" />
   <img src="https://img.shields.io/badge/Focus-Software%20Testing-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-%20Egypt-success" />
-</p><img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
+</p>
+<img align="right" height="150rem" alt="GIF" src="https://www.ministryoftesting.com/assets/dojo-member-c226922a20c3cb8079c545095b5c4aa24f601644ea84b80ff166549015a5a06d.png" />
 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻  I’m currently working on something cool :wink:.
-- 🌱  I’m currently learning Penetration Testing. <img src="https://images.squarespace-cdn.com/content/v1/5ac3cad1365f02b16bfa03e6/1532718477467-UUCFL26L9GRRNF9DD4FK/Icon3.png" width="25px"/>
+- 🌱  I’m currently learning Penetration Testing. 
 - 💬  Ask me about anything, I am happy to help.
 - 📫  How to reach me: moazadel15@gmail.com.
 
@@ -33,34 +34,25 @@
 <p> &nbsp;
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 &nbsp;
-<img align="left" alt="Selenium" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" />
+<img align="left" alt="Selenium" width="30px" src="https://ewig5qf9cgn.exactdn.com/wp-content/uploads/2020/08/Selenium_Hex-1.svg" />
 &nbsp;
-<img align="left" alt="Cypress" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ6-sVRAfV0OykU9ufMJDTorjj9NBBLAgSy3bkiBhVeR5IwoZmifWq5T1hJF32AflHgIM&usqp=CAU" />
+<img align="left" alt="Cypress" width="30px" src="https://ewig5qf9cgn.exactdn.com/wp-content/uploads/2020/08/Cypress_Hex-1.svg" />
 &nbsp;
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> 
- &nbsp;
-<img align="left" alt="Typescript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" /> 
 &nbsp;
 <img align="left" alt="Java" width="23px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" />
 &nbsp;
 <img align="left" alt="Swagger" width="30px" src="https://1.bp.blogspot.com/-Ar8WR3ySYG8/WAuTyMYRNcI/AAAAAAAAO9M/PJOWp3Z8iGUly911EjMP0JjLgfi3EaiLwCLcB/s400/REST%2BAPI.png" />
 &nbsp;
-<img align="left" alt="K6.io" height="30px"  width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQG-1y7V54e405_YqQWYm3WHlKpETgh__p43lA0bzGbpvW7Gne5-icIF5CezIs18bwLuc&usqp=CAU" />
+<img align="left" alt="K6.io" width="30px" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQG-1y7V54e405_YqQWYm3WHlKpETgh__p43lA0bzGbpvW7Gne5-icIF5CezIs18bwLuc&usqp=CAU" />
 &nbsp;
 <img align="left" alt="Java" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWOjaPhJPg8yNJv_ICdpX2-g1OmsOuJjP468gZs__2yJN6I33hdynvHIbMmKjl6zl-dHQ&usqp=CAU"/>
 &nbsp;
-<img align="left" src="https://cdn.iconscout.com/icon/free/png-256/gatling-1175168.png" width="30px"/>
- &nbsp;
-<img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZnI0ZHgQTIEZRKbiIPZ6DSagqE7_PXJPSNZt_qpFbi1Kp5mfHR9mu9_puZXGYsNHqLBE&usqp=CAU" width="30px"/>
-  &nbsp;
-<img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFVaGsM_nguQoKy6d4pAMOgVgBFc5UN-8-XhhJAJVLF5Cy6_PxM7FtnP5wQY8UbL1F2Jw&usqp=CAU" width="30px"/>
- &nbsp;
- <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png" width="30px"/>
- &nbsp;
- <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/GitHub_Mark.png/640px-GitHub_Mark.png" width="30px"/>  
- &nbsp;
- <img align="left" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/intellij-icon.png" width="30px"/>  
-
+<img align="left" src="https://cdn.iconscout.com/icon/free/png-256/gatling-1-1175169.png" width="30px"/>
+<img align="left" src="https://ewig5qf9cgn.exactdn.com/wp-content/uploads/2020/08/Slack_Hex-1.svg" width="30px"/>
+<img align="left" src="https://ewig5qf9cgn.exactdn.com/wp-content/uploads/2020/08/BitBucket_Hex-1.svg" width="30px"/>
+<img align="left" src="https://ewig5qf9cgn.exactdn.com/wp-content/uploads/2020/08/Jenkins_Hex-1.svg" width="30px"/>
+<img align="left" src="https://ewig5qf9cgn.exactdn.com/wp-content/uploads/2020/08/Jira_Hex-1.svg" width="30px"/>
 
 ## About 📌
 
@@ -68,3 +60,19 @@
 #### ✔  **Skills :** Javascript, 
 #### ✔  **Learning :** .NET Core 5
 #### ✔  **Hobbies :**  Read 📕, Music 🎧
+
+## Certicficates 
+<img align="left" src="https://www.freeiconspng.com/uploads/certificate-icon-10.png" width="200px"/>
+<br><br><br><br><br><br><br>
+
+1. Test Automation University
+<a href="https://testautomationu.applitools.com/certificate/?id=c4bd1e94"><img src="https://mma.prnewswire.com/media/951253/Test_Automation_University_Logo.jpg?p=facebook" width="150px"> </a>
+
+2. ISTQB 
+<img src="https://www.istqb.org/templates/t3_bs3_istqb/images/logo.png" width="300px"> </a>
+	
+
+ - [ ] Foundation Level
+ - [ ] Agile Tester
+ - [ ] Mobile App Tester
+ - [ ] Test Automation Engineer

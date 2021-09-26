@@ -67,11 +67,10 @@
 
 1. Test Automation University
 <a href="https://testautomationu.applitools.com/certificate/?id=c4bd1e94"><img src="https://mma.prnewswire.com/media/951253/Test_Automation_University_Logo.jpg?p=facebook" width="150px"> </a>
-
+<br>
 2. ISTQB 
 <img src="https://www.istqb.org/templates/t3_bs3_istqb/images/logo.png" width="300px"> </a>
 	
-
  - [ ] Foundation Level
  - [ ] Agile Tester
  - [ ] Mobile App Tester

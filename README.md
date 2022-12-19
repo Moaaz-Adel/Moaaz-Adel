@@ -2,6 +2,7 @@
 
 <h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Moaz</h2>
 
+
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software Development%20Engineer%20in%20Test%20;4%2B%20years%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
@@ -13,15 +14,15 @@
 </p>
 </p>
 
-<a href="https://app.daily.dev/wezza"><img src="https://api.daily.dev/devcards/9394330c9e8b4b3cba70b8c3ed175d16.png?r=qoh" width="400" alt="Moaaz Adel's Dev Card"/></a>
-
-
  <p align="center">
 <img src="https://img.shields.io/badge/Age-27-blue" />
   <img src="https://img.shields.io/badge/Focus-Software%20Testing-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-%20Egypt-success" />
 </p>
-<img align="right" height="150rem" alt="GIF" src="https://www.ministryoftesting.com/assets/dojo-member-c226922a20c3cb8079c545095b5c4aa24f601644ea84b80ff166549015a5a06d.png" />
+
+<a href="https://app.daily.dev/wezza"><img align="right"  src="https://api.daily.dev/devcards/9394330c9e8b4b3cba70b8c3ed175d16.png?r=qoh" width="300" alt="Moaaz Adel's Dev Card"/></a>
+
+<img align="left" height="150rem" alt="GIF" src="https://www.ministryoftesting.com/assets/dojo-member-c226922a20c3cb8079c545095b5c4aa24f601644ea84b80ff166549015a5a06d.png" />
 
 **Talking about Personal Stuffs:**
 

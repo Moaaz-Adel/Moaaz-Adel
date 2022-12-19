@@ -13,6 +13,8 @@
 </p>
 </p>
 
+<a href="https://app.daily.dev/wezza"><img src="https://api.daily.dev/devcards/9394330c9e8b4b3cba70b8c3ed175d16.png?r=qoh" width="400" alt="Moaaz Adel's Dev Card"/></a>
+
 
  <p align="center">
 <img src="https://img.shields.io/badge/Age-27-blue" />

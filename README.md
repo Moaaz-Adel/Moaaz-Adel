@@ -29,7 +29,7 @@
 - 👨🏽‍💻  I’m currently working on something cool :wink:.
 - 🌱  I’m currently learning Penetration Testing. 
 - 💬  Ask me about anything, I am happy to help.
-- 📫  How to reach me: moazadel15@gmail.com.
+- 📫  How to reach me: moaaz.adel.m@gmail.com.
 
 ***
 
